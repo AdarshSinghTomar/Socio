@@ -1,0 +1,22 @@
+{
+  "name": "socio",
+  "version": "1.0.0",
+  "description": "A Social Media Website with chatting feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdarshSinghTomar/Socio.git"
+  },
+  "author": "Adarsh Singh Tomar,Anubhav Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdarshSinghTomar/Socio/issues"
+  },
+  "homepage": "https://github.com/AdarshSinghTomar/Socio#readme",
+  "dependencies": {
+    "Express": "^3.0.1"
+  }
+}
