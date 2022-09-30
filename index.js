@@ -1,7 +1,7 @@
 const express= require('express');
 const app=express();
-const port=8000;
-
+const port=8080;
+console.log ("server is running")
 
 
 app.listen(port,function(err){
