@@ -5,7 +5,8 @@ const port=8080;
 console.log ("server is running")
 
 app.use('/',homeroute);
-
+app.set('view engine', 'ejs')
+     app.set('views','./views')
 app.listen(port,function(err){
     if(err)
     {
